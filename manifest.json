@@ -1,0 +1,15 @@
+{
+  "short_name": "Noor Studio",
+  "name": "Noor Studio Website",
+  "icons": [
+    {
+      "src": "favico.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#c6a884",
+  "background_color": "#c6a884"
+}
